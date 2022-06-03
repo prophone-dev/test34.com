@@ -2,3 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://test34.com/index</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/store</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/reviews</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/gallery-All</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/gallery-Exterior-Detailing</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Boat-Detailing</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Ceramic-Coating</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Exterior-Detailing</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Full-Detail-Service</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Headlight-Restoration</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Interior-Detailing</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Maintenance-Wash</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Motorcycle-Detailing</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Paint-Correction</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-RV-&-Camper-Detail</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://test34.com/service-Waxing-Services</loc>
+        <lastmod>2022-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
